@@ -25,3 +25,21 @@ A beginner-friendly **Command Line Quiz Application** built using **C++**. This 
 ```bash
 g++ quiz.cpp -o quiz
 ./quiz
+
+---
+
+## 🧑‍💻 Author
+
+- **Name:** Mahad Zulfiqar  
+- **University:** International Islamic University  
+- **Semester:** 4th Semester, BSCS  
+- **Skills:** C++, Python, Figma (UI/UX), Oracle SQL, React
+
+---
+
+## 🔗 Connect with Me
+
+- 📂 [GitHub Profile](https://github.com/mahadzulfiqar/Mahad-zulfiqar)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahad-zulfiqar-a43b5131a/)  
+- 🌐 Portfolio: 
+
